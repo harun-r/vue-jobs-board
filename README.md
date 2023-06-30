@@ -1,5 +1,5 @@
-# jobs-board
-
+# Jobs Board
+Jobs board is a practice project for making simple jobs board website with vue and typescript. [click here](https://vue-jobs-board.vercel.app/) to see live preview
 ## Project setup
 ```
 npm install
